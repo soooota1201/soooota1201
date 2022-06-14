@@ -4,5 +4,5 @@
 </p>
 
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=soooota1201&theme=dark">
+  <img src="[http://github-readme-streak-stats.herokuapp.com?user=soooota1201&theme=dark](http://github-readme-streak-stats.herokuapp.com?user=soooota1201&theme=dark&hide_border=true&ring=FF652F&stroke=FF652F&fire=FF652F&currStreakLabel=FF652F)">
 </div>
